@@ -1,0 +1,38 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.success {
+  color: 707070;
+  background-color: #28a745;
+}
+.imaglog {
+  width: 5em;
+}
+.precio-grande {
+  color: #28a745;
+  text-align: right;
+}
+.fa-map-marker-alt {
+  display: inline-block;
+}
+.icon-text {
+  display: inline-block;
+}
+.containermail {
+  background-color: #28a745;
+  padding-bottom: 1em;
+  text-align: center;
+}
+.enviar {
+  text-align: center;
+}
+.footer-texto {
+  color: #707070;
+  text-align: center;
+}
+.img-footer {
+  width: 6rem;
+}
+.text-footer-t {
+  padding: 1rem;
+}
